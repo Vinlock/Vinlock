@@ -1,5 +1,5 @@
 # Hey! I'm Dak. 👋
-### A self-motivated Software Engineer with a passion for understanding and always learning.
+### A self-motivated Software Engineer with an endless passion for understanding and always learning.
 
 Find me on social media like **[Twitter](https://twitter.com/Vinlockz)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/vinlockz/)**.
 
