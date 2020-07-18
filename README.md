@@ -8,3 +8,5 @@ On the side I'm play PvP games like **[Overwatch](https://playoverwatch.com/en-u
 Currently I work at **[Weedmaps](https://weedmaps.com)**. Places I used to work at include **[NCSOFT](https://ncsoft.com)** and **[Dellamoda](https://dellamoda.com)**.
 
 You can **[check out my resume](http://cdn.dak.dev/Dak_Washbrook_Resume.pdf)** if you would like!
+
+My very simple personal site is here at **[dak.dev](https://dak.dev)**
