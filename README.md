@@ -7,7 +7,7 @@ On the side I play PvP games like **[Overwatch](https://playoverwatch.com/en-us/
 
 I've been creating solutions and expanding my knowledge on technology since my dad sat me down at a computer at age 5 playing with Visual Basic! Since then I have been lucky enough to learn many other languages like **PHP**, **JavaScript/NodeJS/TypeScript**, **Python**, **Golang**, and many more.
 
-It has been quite an experience constantly learning ways to efficiently deliver and maintain high quality tech solutions and infrastructure. My interest truly never ends and I will never stop learning through technology as well as from those I'm lucky enough to be around.
+It has been quite an experience constantly learning efficient ways to deliver and maintain high quality tech solutions and infrastructure. My interest truly never ends and I will never stop learning through technology as well as from those I'm lucky enough to be around.
 
 Currently, I work as a Senior Software Engineer with the awesome Retail team at **[Weedmaps](https://weedmaps.com)**, working on a **[Point of Sale system](https://weedmaps.com/business/retail/)** for the Cannbis industry. Places I have previously worked include **[NCSOFT](https://ncsoft.com)** and **[Dellamoda](https://dellamoda.com)**.
 
