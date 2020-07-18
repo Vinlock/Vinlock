@@ -1,3 +1,8 @@
 # Hey! I'm Dak. 👋
 ### I am a self-motivated Software Engineer with a passion for understanding and always learning.
 
+Find me on social media like, **[Twitter](https://twitter.com/Vinlockz)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/vinlockz/)**.
+
+On the side I'm play PvP games like **[Overwatch](https://playoverwatch.com/en-us/)**, **[Apex Legends](https://www.ea.com/games/apex-legends)**, and **[Valorant](https://playvalorant.com/en-us/)**. In a past life I played **[Aion Online](https://www.aiononline.com/)** religiously as well.
+
+You can **[check out my resume](http://cdn.dak.dev/Dak_Washbrook_Resume.pdf)** if you would like!
