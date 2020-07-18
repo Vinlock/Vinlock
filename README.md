@@ -3,7 +3,7 @@
 
 Find me on social media like, **[Twitter](https://twitter.com/Vinlockz)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/vinlockz/)**.
 
-On the side I'm play PvP games like **[Overwatch](https://playoverwatch.com/en-us/)**, **[Apex Legends](https://www.ea.com/games/apex-legends)**, and **[Valorant](https://playvalorant.com/en-us/)**. In a past life I played **[Aion Online](https://www.aiononline.com/)** religiously as well.
+On the side I play PvP games like **[Overwatch](https://playoverwatch.com/en-us/)**, **[Apex Legends](https://www.ea.com/games/apex-legends)**, and **[Valorant](https://playvalorant.com/en-us/)**. In a past life I played **[Aion Online](https://www.aiononline.com/)** religiously as well.
 
 I've been creating solutions and expanding my knowledge on technology since my dad sat me down at a computer at age 5 playing with Visual Basic! It has been quite an experience constantly learning ways to efficiently deliver and maintain high quality tech solutions and infrastructure. My interest truly never ends.
 
