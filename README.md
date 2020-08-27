@@ -13,4 +13,4 @@ Currently, I work as a Senior Software Engineer with the awesome Retail team at 
 
 You can **[check out my resume](http://cdn.dak.dev/Dak_Washbrook_Resume.pdf)** if you would like!
 
-My very simple personal site is here at **[dak.dev](https://dak.dev)**. Though, I am looking to expand on my personal site to evolve it into a portfolio.
+My very simple personal site is here at **[dak.dev](https://dak.dev)**.
