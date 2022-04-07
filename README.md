@@ -9,7 +9,7 @@ I've been creating solutions and expanding my knowledge on technology since my d
 
 It has been quite an experience constantly learning efficient ways to deliver and maintain high quality tech solutions and infrastructure. My interest truly never ends and I will never stop learning through technology as well as from those I'm lucky enough to be around.
 
-Currently, I have worked at **[Weedmaps](https://weedmaps.com)** since July 2019. Originally, I was on the awesome **[Retail Team](https://weedmaps.com/business/retail/)** working on a **[Point of Sale system](https://weedmaps.com/business/retail/)** for the Cannbis industry. Since late February 2022 I have moved over to the Dispatch team (aka **[Cannveya](https://www.cannveya.com)**).
+Currently, I have worked at **[Weedmaps](https://weedmaps.com)** since July 2019. Originally, I was on the awesome **[Retail Team](https://weedmaps.com/business/retail/)** working on a **[Point of Sale system](https://weedmaps.com/business/retail/)** for the Cannbis industry. Since late February 2022 I have moved over to the new WM Logistics team (aka **[Cannveya](https://www.cannveya.com)**).
 
 Places I have previously worked include **[NCSOFT](https://ncsoft.com)** and **[Dellamoda](https://dellamoda.com)**.
 
