@@ -16,3 +16,5 @@ Places I have previously worked include **[NCSOFT](https://ncsoft.com)** and **[
 You can **[check out my resume](http://cdn.dak.dev/Dak_Washbrook_Resume.pdf)** if you would like!
 
 My very simple personal site is here at **[dak.dev](https://dak.dev)**.
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/dakdevs?style=for-the-badge)](https://peerlist.io/dakdevs)
