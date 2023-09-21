@@ -1,6 +1,8 @@
 # Hey! I'm Dak. 👋
 ### A self-motivated Software Engineer with a passion for understanding and always learning.
 
+**Current Position:** Senior Software Engineer (Lead) at [Weedmaps Technology](https://weedmaps.com).
+
 Find me on social media like **[Twitter](https://twitter.com/dakdevs)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/dakdevs/)**.
 
 On the side I play PvP games like **[Overwatch](https://playoverwatch.com/en-us/)**, **[Apex Legends](https://www.ea.com/games/apex-legends)**, and **[Valorant](https://playvalorant.com/en-us/)**. In a past life I played **[Aion Online](https://www.aiononline.com/)** religiously as well. I actually used to run a site from 2009-2014 called PvP All Day that archived, showcased, and selectively featured video content made by other players on Aion. Now since the Aion team has created a Classic version of the game, I have been working on reviving **[PvP All Day](https://pvpallday.com)**!
@@ -9,12 +11,12 @@ I've been creating solutions and expanding my knowledge on technology since my d
 
 It has been quite an experience constantly learning efficient ways to deliver and maintain high quality tech solutions and infrastructure. My interest truly never ends and I will never stop learning through technology as well as from those I'm lucky enough to be around.
 
-Currently, I have worked at **[Weedmaps](https://weedmaps.com)** since July 2019. Originally, I was on the **[Retail Team](https://weedmaps.com/business/retail/)** working on a Point of Sale system for the Cannbis industry. Since late February 2022 I had moved over to the WM Dispatch team (aka **[Cannveya](https://www.cannveya.com)**). Now since January 2023 I am on the new and awesome "Cacheless Team" that is currently working within the Payments workstream.
+Currently, I have worked at **[Weedmaps](https://weedmaps.com)** since July 2019. Originally, I was on the **[Retail Team](https://weedmaps.com/business/retail/)** working on a Point of Sale system for the Cannbis industry. Since late February 2022 I had moved over to the WM Dispatch team (aka **[Cannveya](https://www.cannveya.com)**). Now since January 2023 I am on the new and awesome "Cacheless Team" that is currently working on numerous high value projects in the company.
 
 Places I have previously worked include **[NCSOFT](https://ncsoft.com)** and **[Dellamoda](https://dellamoda.com)**.
 
 You can **[check out my resume](http://cdn.dak.dev/Dak_Washbrook_Resume.pdf)** if you would like!
 
-My very simple personal site is here at **[dak.dev](https://dak.dev)**.
+Checkout my personal site here at **[dak.dev](https://dak.dev)**.
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/dakdevs?style=for-the-badge)](https://peerlist.io/dakdevs)
