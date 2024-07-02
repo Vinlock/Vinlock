@@ -11,11 +11,7 @@ I've been creating solutions and expanding my knowledge on technology since my d
 
 It has been quite an experience constantly learning efficient ways to deliver and maintain high quality tech solutions and infrastructure. My interest truly never ends and I will never stop learning through technology as well as from those I'm lucky enough to be around.
 
-Currently, I have worked at **[Weedmaps](https://weedmaps.com)** since July 2019. Originally, I was on the **[Retail Team](https://weedmaps.com/business/retail/)** working on a Point of Sale system for the Cannbis industry. Since late February 2022 I had moved over to the WM Dispatch team (aka **[Cannveya](https://www.cannveya.com)**). Now since January 2023 I am on the new and awesome "Cacheless Team" that is currently working on numerous high value projects in the company.
-
-Places I have previously worked include **[NCSOFT](https://ncsoft.com)** and **[Dellamoda](https://dellamoda.com)**.
-
-You can **[check out my resume](http://cdn.dak.dev/Dak_Washbrook_Resume.pdf)** if you would like!
+You can **[check out my resume](https://docs.google.com/document/d/17RIRtWo1iIWQXdpFtggAFSf1bIWV6yJj3GuwzdHmZCk/edit?usp=sharing)** if you would like!
 
 Checkout my personal site here at **[dak.dev](https://dak.dev)**.
 
