@@ -1,7 +1,7 @@
 # Hey! I'm Dak. 👋
 ### A self-motivated Software Engineer with a passion for understanding and always learning.
 
-**Current Position:** Senior Software Engineer (Lead) at [Weedmaps Technology](https://weedmaps.com).
+**Current Position:** Founding Software Engineer at [Dunbar](https://trydunbar.com).
 
 Find me on social media like **[X/Twitter](https://x.com/dakdevs)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/dakdevs/)**.
 
