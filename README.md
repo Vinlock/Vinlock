@@ -15,4 +15,6 @@ You can **[check out my resume](https://docs.google.com/document/d/17RIRtWo1iIWQ
 
 Checkout my personal site here at **[dak.dev](https://dak.dev)**.
 
+Schedule some time with me at **https://cal.com/dak**
+
 [![Peerlist](https://github-readme-badge.peerlist.io/api/dakdevs?style=for-the-badge)](https://peerlist.io/dakdevs)
