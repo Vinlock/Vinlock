@@ -3,7 +3,7 @@
 
 **Current Position:** Senior Software Engineer (Lead) at [Weedmaps Technology](https://weedmaps.com).
 
-Find me on social media like **[Twitter](https://twitter.com/dakdevs)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/dakdevs/)**.
+Find me on social media like **[X/Twitter](https://x.com/dakdevs)**, **[LinkedIn](https://linkedin.com/in/dwashbrook)**, **[Instagram](https://www.instagram.com/dakdevs/)**.
 
 On the side I play PvP games like **[Overwatch](https://playoverwatch.com/en-us/)**, **[Apex Legends](https://www.ea.com/games/apex-legends)**, and **[Valorant](https://playvalorant.com/en-us/)**. In a past life I played **[Aion Online](https://www.aiononline.com/)** religiously as well. I actually used to run a site from 2009-2014 called PvP All Day that archived, showcased, and selectively featured video content made by other players on Aion. Now since the Aion team has created a Classic version of the game, I have been working on reviving **[PvP All Day](https://pvpallday.com)**!
 
